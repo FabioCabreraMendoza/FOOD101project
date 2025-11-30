@@ -98,5 +98,3 @@ Este proyecto está diseñado para ejecutarse en **Google Colab** para aprovecha
     * Lanzar la UI de Gradio al final.
 
 ---
-
-## 📂 Estructura del Repositorio
