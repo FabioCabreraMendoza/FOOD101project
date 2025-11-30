@@ -15,7 +15,6 @@ Este proyecto implementa un sistema de visión por computadora "End-to-End" capa
 - [Resultados y Métricas](#-resultados-y-métricas)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Instalación y Uso](#-instalación-y-uso)
-- [Estructura del Repositorio](#-estructura-del-repositorio)
 
 ---
 
