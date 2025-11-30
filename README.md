@@ -56,9 +56,6 @@ El modelo fue evaluado utilizando la métrica de **Accuracy** (Exactitud) y **Ca
 
 > **Nota:** El modelo final alcanza un **70.7% de precisión**, un rendimiento competitivo considerando la eficiencia de MobileNetV2.
 
-*(Opcional: Si tienes la imagen de las curvas de MLflow, puedes ponerla aquí así:)*
-`<img width="1371" height="707" alt="image" src="https://github.com/user-attachments/assets/d08bcd7f-6ffd-4267-b75b-fc88ed6489f7" />
-`
 
 ---
 
